@@ -1,0 +1,8 @@
+type Strain @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  title: String
+  photo: String
+  cross: String
+  description: String
+  price: Int
+}

@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cultivar-staging-194804-authRole",
+      "UnauthRoleArn": "arn:aws:iam::273525002657:role/amplify-cultivar-staging-194804-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::273525002657:role/amplify-cultivar-staging-194804-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cultivar-staging-194804-deployment",
+      "UnauthRoleName": "amplify-cultivar-staging-194804-unauthRole",
+      "StackName": "amplify-cultivar-staging-194804",
+      "StackId": "arn:aws:cloudformation:us-east-2:273525002657:stack/amplify-cultivar-staging-194804/3c0fc280-7c14-11ee-9250-064be74e0e79",
+      "AmplifyAppId": "d30s98xbs558z6"
+    },
+    "categories": {
+      "auth": {
+        "cultivar65890dfb": {}
+      },
+      "api": {
+        "Cultivar": {}
+      }
+    }
+  }
+}
